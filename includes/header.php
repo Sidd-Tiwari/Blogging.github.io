@@ -1,0 +1,1 @@
+<h1 class="p-2 fw-bold text-center text-uppercase text-light bg-dark"><span class="text-danger">b</span><span class="text-warning">l</span><span class="text-success">o</span><span class="text-primary">g</span> <span class="text-danger">p</span><span class="text-warning">o</span><span class="text-success">s</span><span class="text-primary">t</span></h1><hr>

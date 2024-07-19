@@ -1,0 +1,36 @@
+/* Add any specific styles for the admin dashboard here */
+body {
+    padding-top: 56px;
+}
+
+.card-img-top {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer h5 {
+    color: #fff;
+}
+
+footer p, footer ul {
+    margin: 0;
+}
+
+footer ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+}
+
+footer .text-muted {
+    color: #6c757d !important;
+}
