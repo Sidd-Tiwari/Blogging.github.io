@@ -11,6 +11,32 @@ This is a simple blogging website built with PHP, MySQL, Bootstrap 5, jQuery, an
 - Rich text editor for creating posts (TinyMCE)
 - Responsive design using Bootstrap 5
 
+## Screenshots
+
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Registration Page
+
+![Register](screenshots/register.png)
+
+### Login Page
+
+![Login](screenshots/login.png)
+
+### Create Post Page
+
+![Create Post](screenshots/create_post.png)
+
+### Post View with Comments
+
+![Post View](screenshots/post_view.png)
+
+### Admin Dashboard
+
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
 ## Requirements
 
 - PHP 7.4 or higher
@@ -108,7 +134,7 @@ This is a simple blogging website built with PHP, MySQL, Bootstrap 5, jQuery, an
 ├── post.php
 ├── register.php
 └── ...
-```
+
 
 ## License
 
